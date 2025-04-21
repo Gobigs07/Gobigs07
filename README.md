@@ -10,8 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-![image](https://github.com/user-attachments/assets/b87146fd-edb9-4c99-9b5d-d56ee7adce37)
+![image](https://github.com/user-attachments/assets/7a275b0c-92b5-4915-881a-030ff45c39b7)
 
 
 <h3 align="left">Languages and Tools:</h3>
