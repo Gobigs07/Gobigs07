@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gobinath</h1>
 <h3 align="center">Cloud DevOps Engineer and Operations</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobigs07" alt="gobigs07" /></a> </p>
+#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobigs07" alt="gobigs07" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gobigs07/Gobigs07](https://github.com/Gobigs07/Gobigs07)
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="https://github.com/user-attachments/assets/7a275b0c-92b5-4915-881a-030ff45c39b7" alt="azure" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/7a275b0c-92b5-4915-881a-030ff45c39b7" alt="GUST" width="400" height="400"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
