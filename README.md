@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-https://github.com/user-attachments/assets/7a275b0c-92b5-4915-881a-030ff45c39b7
+<img src="https://github.com/user-attachments/assets/7a275b0c-92b5-4915-881a-030ff45c39b7" alt="azure" width="40" height="40"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
